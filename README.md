@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Ailyn Altunar 👋
 
-<!--
-**Ailyn-Altunar/Ailyn-Altunar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Sobre mí
+Soy una desarrolladora apasionada por crear soluciones tecnológicas y aprender algo nuevo cada día. Actualmente estoy enfocada en fortalecer mis bases en programación y construir mis primeros proyectos.
 
-Here are some ideas to get you started:
+- 🔭 **Actualmente mejorando en:** Mis fundamentos de programación
+- 🌱 **Aprendiendo:** JavaScript o Java
+- 👯 **Me gustaría colaborar en:** Proyectos de código abierto para principiantes.
+- ⚡ **Dato curioso:** "Me encanta la cultura coreana"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+Aquí puedes ver las herramientas con las que estoy familiarizada:
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
+
+---
+
+### 📫 ¿Cómo contactarme?
+- **LinkedIn:** www.linkedin.com/in/ailyn-altunar
+
+
+---
+<p align="center">
+  <i>"El código es como el humor; cuando tienes que explicarlo, es malo." - Cory House</i>
+</p>
